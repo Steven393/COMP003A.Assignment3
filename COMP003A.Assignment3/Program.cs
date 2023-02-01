@@ -35,6 +35,9 @@ namespace COMP003A.LectureActivity3
             {
                 Console.WriteLine("Letter Grade: A");
             }
+            
+             Console.WriteLine(inputNumber > 100 ? "Invalid Input!" : "Invalid Input!");
+            
             Console.WriteLine("**********************************************");
 
             Console.WriteLine("Integer to string day using an switch statement");
@@ -59,6 +62,8 @@ namespace COMP003A.LectureActivity3
                     break;
                     case 7: Console.WriteLine("String Day: Sunday");
                         break;
+                    
+                    Console.WriteLine(inputNumber > 7 ? "Invalid Day!" : "Invalid Day!");
             }
 
 
