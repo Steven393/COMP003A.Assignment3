@@ -1,7 +1,7 @@
 ﻿/*
 * Author: Steven Gonzalez
 * Course: COMP-003A
-* Purpose: Lecture Activity 3 Code
+* Purpose: Numeric to letter grade using an if-else statement and Integer to string day using an switch statement
 */
 
 namespace COMP003A.LectureActivity3
